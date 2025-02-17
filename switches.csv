@@ -1,7 +1,7 @@
 Switch Name,Manufacturer,Switch Type (linear/tactitile/clicky),Pins (number),Pre-lubed (y/n),Top Housing Material,Bottom Housing Material,Stem Material,Switch Compatibility,Actuation Distance (MM),Total Travel (MM),Actuation Force (G),Bottom-Out Force (G),Peak Force (G),Cost/switch ($)
-MX Red,Cherry,Linear,,N,Nylon,Nylon,Custom blend (POM),Cherry MX,2,4,45,60,65,
-MX Blue,Cherry,Clicky,,n,Nylon,Nylon,Custom blend (POM),Cherry MX,2,4,55,60,65,
-MX Brown,Cherry,Tactile,,n,Nylon,Nylon,Custom blend (POM),Cherry MX,2,4,37,55,45,
+MX Red,Cherry,Linear,3 and 5,N,Nylon,Nylon,Custom blend (POM),Cherry MX,2,4,45,60,65,
+MX Blue,Cherry,Clicky,3 and 5,n,Nylon,Nylon,Custom blend (POM),Cherry MX,2,4,55,60,65,
+MX Brown,Cherry,Tactile,3 and 5,n,Nylon,Nylon,Custom blend (POM),Cherry MX,2,4,37,55,45,
 Kailh Red,Kailh,Linear,3,y,,,,Cherry MX,2,4,50,,,
 Kailh Blue,Kailh,Clicky,3,y,,,,Cherry MX,2,4,50,,,
 Kailh Brown,Kailh,Tactile,3,y,,,,Cherry MX,2,4,50,,,
